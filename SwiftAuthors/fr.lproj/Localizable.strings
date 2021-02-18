@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Commit List
+
+  Created by Manju Kiran on 18/02/2021.
+  Copyright © 2021 Manju Kiran. All rights reserved.
+*/
+
+"retrieving_data" = "Récupération des données";
+
+"commit_list_view_title" = "Swift Repo - Historique des validations";
+
+"updating_commit_list_data_message" = "Récupération de la liste des commits";
+
+"commited_on_prefix" = "Engagé le";
+
+"no_data_placeholder_message" = "Oups, il semble que nous ayons rencontré une erreur lors de la récupération des données de nos serveurs cloud. \ N \ nSuis sûr que nos ingénieurs travaillent déjà pour résoudre ce problème. \ N \ n \ nPourquoi ne pas abaisser pour actualiser et voir si le temps a éclairci?";
+
+"data_fetch_in_progress" = "En route vers nos serveurs ...";
+
+"no_results_placeholder_message" = "Aucun résultat trouvé. \ N \ nEssayons de rechercher d'autres validations? \ N \ nJolie s'il vous plaît 😅";
+
+"OK" = "OK";
+"cancel" = "Annuler";

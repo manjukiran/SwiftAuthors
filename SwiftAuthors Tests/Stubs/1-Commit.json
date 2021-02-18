@@ -1,0 +1,79 @@
+{
+  "sha": "ed1ec54958260f54e56929facd33e04d494e7fe6",
+  "node_id": "MDY6Q29tbWl0NDQ4Mzg5NDk6ZWQxZWM1NDk1ODI2MGY1NGU1NjkyOWZhY2QzM2UwNGQ0OTRlN2ZlNg==",
+  "commit": {
+    "author": {
+      "name": "Saleem Abdulrasool",
+      "email": "compnerd@compnerd.org",
+      "date": "2018-12-12T18:09:58Z"
+    },
+    "committer": {
+      "name": "Saleem Abdulrasool",
+      "email": "compnerd@compnerd.org",
+      "date": "2018-12-12T18:09:58Z"
+    },
+    "message": "test: make `%target-library-name` work in captures\n\nThanks to @jrose for the hint about the substitution ordering, the new\nsubstitution now works even inside the capture group.  Replace the\nremaining uses to the new macro.",
+    "tree": {
+      "sha": "0d82bbbe32a7103ad2d2bbe61379308116e76109",
+      "url": "https://api.github.com/repos/apple/swift/git/trees/0d82bbbe32a7103ad2d2bbe61379308116e76109"
+    },
+    "url": "https://api.github.com/repos/apple/swift/git/commits/ed1ec54958260f54e56929facd33e04d494e7fe6",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null
+    }
+  },
+  "url": "https://api.github.com/repos/apple/swift/commits/ed1ec54958260f54e56929facd33e04d494e7fe6",
+  "html_url": "https://github.com/apple/swift/commit/ed1ec54958260f54e56929facd33e04d494e7fe6",
+  "comments_url": "https://api.github.com/repos/apple/swift/commits/ed1ec54958260f54e56929facd33e04d494e7fe6/comments",
+  "author": {
+    "login": "compnerd",
+    "id": 63311,
+    "node_id": "MDQ6VXNlcjYzMzEx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63311?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/compnerd",
+    "html_url": "https://github.com/compnerd",
+    "followers_url": "https://api.github.com/users/compnerd/followers",
+    "following_url": "https://api.github.com/users/compnerd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/compnerd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/compnerd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/compnerd/subscriptions",
+    "organizations_url": "https://api.github.com/users/compnerd/orgs",
+    "repos_url": "https://api.github.com/users/compnerd/repos",
+    "events_url": "https://api.github.com/users/compnerd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/compnerd/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "compnerd",
+    "id": 63311,
+    "node_id": "MDQ6VXNlcjYzMzEx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63311?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/compnerd",
+    "html_url": "https://github.com/compnerd",
+    "followers_url": "https://api.github.com/users/compnerd/followers",
+    "following_url": "https://api.github.com/users/compnerd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/compnerd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/compnerd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/compnerd/subscriptions",
+    "organizations_url": "https://api.github.com/users/compnerd/orgs",
+    "repos_url": "https://api.github.com/users/compnerd/repos",
+    "events_url": "https://api.github.com/users/compnerd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/compnerd/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "8968fcad5fcab2ef213c037f2cc37320a7ce737c",
+      "url": "https://api.github.com/repos/apple/swift/commits/8968fcad5fcab2ef213c037f2cc37320a7ce737c",
+      "html_url": "https://github.com/apple/swift/commit/8968fcad5fcab2ef213c037f2cc37320a7ce737c"
+    }
+  ]
+}

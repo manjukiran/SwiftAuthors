@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Commit List
+
+  Created by Manju Kiran on 18/02/2021.
+  Copyright © 2021 Manju Kiran. All rights reserved.
+*/
+
+"retrieving_data" = "Daten abrufen";
+"" = "";
+"commit_list_view_title" = "Swift Repo - Commit-Verlauf";
+"" = "";
+"updating_commit_list_data_message" = "Liste der Commits abrufen";
+"" = "";
+"commited_on_prefix" = "Festgeschrieben am";
+"" = "";
+"no_data_placeholder_message" = "Hoppla, es scheint, dass beim Abrufen von Daten von unseren Cloud-Servern ein Fehler aufgetreten ist. \ N \ nAm sicher, dass unsere Ingenieure bereits daran arbeiten, dies zu beheben. \ N \ n \ nWarum ziehen Sie nicht nach unten, um zu aktualisieren, und lassen Sie uns sehen, ob das Wetter es hat geklärt?";
+"" = "";
+"data_fetch_in_progress" = "Auf dem Weg zu unseren Servern ...";
+"" = "";
+"no_results_placeholder_message" = "Keine Ergebnisse gefunden. \ N \ nLass uns versuchen, nach anderen Commits zu suchen? \ N \ nPretty bitte please";
+"" = "";
+"OK" = "OK";
+"cancel" = "Stornieren";
+
+"retrieving_data" = "Retrieving Data";
+
+"commit_list_view_title" = "Swift Repo - Commit History";
+
+"updating_commit_list_data_message" = "Fetching list of commits";
+
+"commited_on_prefix" = "Committed On";
+
+"no_data_placeholder_message" = "Oops, it appears that we encountered an error when fetching data from our cloud servers.\n\nAm sure our engineers are already working to fix this.\n\n\nWhy dont you pull down to refresh and lets see if the weather has cleared up?";
+
+"data_fetch_in_progress" = "On my way to our servers...";
+
+"no_results_placeholder_message" = "No results found.\n\nLets try searching for other commits?\n\nPretty please 😅 ";
+
+"OK" = "OK";
+"cancel" = "cancel";
+
